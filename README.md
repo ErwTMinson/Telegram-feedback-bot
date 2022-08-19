@@ -2,6 +2,7 @@
 It's eassy feedback bot on aiogram.
 
 HOW TO USE:
+
 It is recommended to compile code on Python 3.10.
 
 `In file "constants.py":`
