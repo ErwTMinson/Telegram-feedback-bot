@@ -7,7 +7,7 @@ It is recommended to compile code on Python 3.10.
 
 `In file "constants.py":`
 
-    - edit constant "FEEDBACK_OWNER_ID" to self id.
+    - edit constant "FEEDBACK_OWNER_ID" to self id. (you can get his from self_id command)
     - edit constant "TOKEN" to your bot token.
 
 For quickly start bot use file "start.bat" if you Windows-user
