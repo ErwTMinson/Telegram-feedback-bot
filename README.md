@@ -10,4 +10,4 @@ It is recommended to compile code on Python 3.10.
     - edit constant "FEEDBACK_OWNER_ID" to self id.
     - edit constant "TOKEN" to your bot token.
 
-For quick start bot use file "start.bat" if you Windows-user
+For quickly start bot use file "start.bat" if you Windows-user
